@@ -1,0 +1,7 @@
+[{
+	"name": "Mr.G Image Base",
+	"description": "Base package for installing basic workflows to use in Mr.G AI",
+	"version": "1.0",
+	"repository": "https://github.com/RazvanManolache/Mr.G-AI-Package-Base",
+	"branch": "main"
+}]
